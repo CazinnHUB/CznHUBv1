@@ -1,10 +1,9 @@
 --[[
-██╗     ██╗   ██╗ █████╗ ██████╗ ██████╗  ██████╗ ████████╗███████╗ ██████╗████████╗██████╗ ███████╗██╗   ██╗
+CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB
 ██║     ██║   ██║██╔══██╗██╔══██╗██╔══██╗██╔═══██╗╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║   ██║
-██║     █╝ ██╔══██╗██║   ██║   ██║   ██╔══╝  ██║        ██║   ██║  ██║██╔══╝  ╚██╗ ██╔╝
+🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃|🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃🙃
 ███████╗╚██████╔╝██║  ██║██║     ██║  ██║╚██████╔╝   ██║   ███████╗╚██████╗   ██║██╗██████╔╝███████╗ ╚████╔╝ 
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝ ╚═════╝   ╚═╝╚═╝╚═════╝ ╚══════╝  ╚═══╝  
-
+CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB,CazinHUB
 ]]
 return(function(...)
 local _6aj=(task and task.wait or wait)
